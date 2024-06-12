@@ -41,7 +41,7 @@ export function App() {
       await axios.delete(`http://localhost:8080/tasks/${id}`);
       await fetchNotes();
 
-      toast.warning('Nota excluida!');
+      toast.warning('Nota excluída!');
     } catch (error) {
       console.error('Error deleting note:', error);
     }

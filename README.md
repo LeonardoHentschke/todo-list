@@ -13,5 +13,5 @@
 ### Acessando a aplicação
 Após seguir as etapas de configuração acima:
 
-- O frontend estará disponível em http://localhost:5432.
+- O frontend estará disponível em http://localhost:5173.
 - O backend estará rodando em http://localhost:8080.
